@@ -18,9 +18,6 @@ em modo gráfico); e por executar as invocações remotas de métodos disponíve
 modo que os usuários possam jogar partidas consistentes.
 
 
-### Entrega: `04/10/2018`.
-
-
 ----------------------------------------------------------------------------------
 
 # Speculate com RMI
@@ -49,4 +46,3 @@ Depois de executar todos os seus lançamentos, o jogador passa a vez para o adve
 exatamente da mesma forma (definindo o número de lançamentos e executando estes lançamentos).
 O vencedor será o primeiro jogador a ficar sem nenhuma bola.
 
-### Entrega: `2 de maio de 2019`.
