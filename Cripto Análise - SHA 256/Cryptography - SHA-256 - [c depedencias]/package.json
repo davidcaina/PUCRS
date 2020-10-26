@@ -1,0 +1,21 @@
+{
+  "name": "crptography-256",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Vieira",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "file-bytes": "^2.0.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+}

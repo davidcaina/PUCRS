@@ -1,0 +1,13 @@
+#version 140
+
+in vec2 pos;
+
+out vec2 textureCoords;
+
+uniform mat4 matrix_transformacao;
+
+void main(void){
+
+	gl_Position = matrix_transformacao * vec4(pos, 0.0, 1.0);
+	textureCoords = vec2((pos.x+1.0)/2.0, 1 - (pos.y+1.0)/2.0);
+}
